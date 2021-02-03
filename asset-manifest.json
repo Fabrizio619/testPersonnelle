@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/testPersonnelle/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/testPersonnelle/static/js/main.ab6a1249.chunk.js",
+    "main.js.map": "/testPersonnelle/static/js/main.ab6a1249.chunk.js.map",
+    "runtime-main.js": "/testPersonnelle/static/js/runtime-main.839b7d21.js",
+    "runtime-main.js.map": "/testPersonnelle/static/js/runtime-main.839b7d21.js.map",
+    "static/js/2.a259a9f1.chunk.js": "/testPersonnelle/static/js/2.a259a9f1.chunk.js",
+    "static/js/2.a259a9f1.chunk.js.map": "/testPersonnelle/static/js/2.a259a9f1.chunk.js.map",
+    "static/js/3.eae39fd2.chunk.js": "/testPersonnelle/static/js/3.eae39fd2.chunk.js",
+    "static/js/3.eae39fd2.chunk.js.map": "/testPersonnelle/static/js/3.eae39fd2.chunk.js.map",
+    "index.html": "/testPersonnelle/index.html",
+    "static/css/main.8c8b27cf.chunk.css.map": "/testPersonnelle/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.a259a9f1.chunk.js.LICENSE.txt": "/testPersonnelle/static/js/2.a259a9f1.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/testPersonnelle/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.839b7d21.js",
+    "static/js/2.a259a9f1.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.ab6a1249.chunk.js"
+  ]
+}
